@@ -15,5 +15,6 @@ meu nome é Pedro, curso segundo ano de DS ( desenvolvimento de sistemas ) no Co
  
 </div><br/>
 
+ Contato: pedrobonacordi302007@gmail.com
 
-Contato: pedrobonacordi302007@gmail.com
+
